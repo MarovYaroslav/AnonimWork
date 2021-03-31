@@ -1,0 +1,15 @@
+body{
+    background-image: url("../img/img/fon2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(73, 73, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    margin: 25px 0;
+}
+pig{
+    width: 30px;
+}
